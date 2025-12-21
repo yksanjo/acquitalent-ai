@@ -11,6 +11,9 @@ class Settings(BaseSettings):
     anthropic_api_key: str
     openai_api_key: Optional[str] = None
     apify_api_token: Optional[str] = None
+    listen_notes_api_key: Optional[str] = None
+    twitter_bearer_token: Optional[str] = None
+    eventbrite_token: Optional[str] = None
     instantly_api_key: Optional[str] = None
     instantly_workspace_id: Optional[str] = None
     
