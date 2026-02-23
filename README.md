@@ -1,5 +1,12 @@
 # acquitalent-ai
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/acquitalent-ai/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/acquitalent-ai/actions)
+![License](https://img.shields.io/github/license/yksanjo/acquitalent-ai)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/acquitalent-ai)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/acquitalent-ai)
+
 ## Detailed Description
 
 acquitalent-ai is maintained as an industry-grade software project with production-ready engineering practices.  
